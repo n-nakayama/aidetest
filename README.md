@@ -1,3 +1,9 @@
+2015/2/5 a.ide
+
+こっちはmaster
+
+
+
 aidetest
 ========
 
