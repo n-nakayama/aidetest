@@ -1,13 +1,17 @@
 2015/2/5 a.ide
 
-<<<<<<< HEAD
+ブレンチの練習。こっちはtestv1修正
+
+
+
+2015/2/5 a.ide
+
 ブレンチの練習。こっちはtestv1
 
 
 2015/2/5 a.ide
 
 =======
->>>>>>> refs/remotes/origin/master
 ブレンチの練習
 
 
